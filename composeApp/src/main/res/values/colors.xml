@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#E91E63</color> <!-- Rosa -->
+    <color name="primaryLightColor">#FF6090</color> <!-- Rosa Claro -->
+    <color name="primaryDarkColor">#B0003A</color> <!-- Rosa Oscuro -->
+    <color name="secondaryColor">#F48FB1</color> <!-- Rosa Pastel -->
+    <color name="white">#FFFFFF</color> <!-- Blanco -->
+    <color name="black">#000000</color> <!-- Negro -->
+</resources>
